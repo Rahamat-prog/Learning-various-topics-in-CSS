@@ -31,23 +31,3 @@ This project is licensed under the MIT License.
 # Contact
 If you have any questions or suggestions regarding this repository, feel free to contact us at rahamatshaikhdeveloper@gmail.com
 
-
-
-
-
-
-
-
-
-# Usage
-To access the resources and tutorials in this repository, simply browse through the folders corresponding to each topic. Each folder contains relevant materials, including articles, tutorials, code snippets, and examples, to help you deepen your understanding of CSS.
-
-# Contributing
-Contributions to this repository are welcome! If you have additional resources, tutorials, or insights related to CSS that you'd like to share, please feel free to contribute by submitting a pull request.
-
-# License
-This project is licensed under the MIT License.
-
-# Contact
-If you have any questions or suggestions regarding this repository, feel free to contact us at your-email@example.com.
-
